@@ -1,0 +1,7 @@
+local:
+  data:
+    input:
+      data_dir: ./data/input_data
+    output:
+      data_dir: ./data/results
+  spark:
