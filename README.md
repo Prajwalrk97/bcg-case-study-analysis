@@ -1,4 +1,4 @@
-# BCG PySpark Assessment
+# US Motor Accidents Crash Analysis
 
 ## Pre-Requisites/Setup
 
@@ -33,7 +33,7 @@ To be able to submit a PySpark job using `spark-submit`, you'll need to ensure t
 ### 4. Run Application
    - Run the below command to start the application
      ```cmd
-     spark-submit --master local[2] src/main.py
+     spark-submit src/jobs/case_study_job.py
      ```
 
 ## Assessment
