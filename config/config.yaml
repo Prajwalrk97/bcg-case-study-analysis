@@ -2,6 +2,12 @@ local:
   data:
     input:
       data_dir: ./data/input_data
+      charges: Charges_use.csv
+      damages: Damages_use.csv
+      endorse: Endorse_use.csv
+      primary_person: Primary_Person_use.csv
+      restrict: Restrict_use.csv
+      units: Units_use.csv
     output:
-      data_dir: ./data/results
+      results_dir: ./data/results
   spark:
